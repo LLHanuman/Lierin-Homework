@@ -1,0 +1,37 @@
+body {
+        size= 10p
+    
+ img {
+        opacity: 0.5;
+    }
+    body {
+        font-size: 16px; 
+        font-weight: bold;
+    }
+    .background {
+        position: z-index:
+    }
+.header {
+        padding: 30px;
+        background-color: #a3a3c2;
+        opacity: 90%;
+        position: absolute;
+        top: 10px;
+        width: 95%;
+        text-align: center;
+        font-size: 30px;
+    }
+    .article {
+        position: absolute;
+        padding: 30px;
+        top: 18%;
+        left:30px;
+        background-color: #a3a3c2;
+        height: 400px;
+        Width: 250px;
+    }
+    .art-header {
+        text-align: center;
+        font-size: 25px;
+    }
+}
